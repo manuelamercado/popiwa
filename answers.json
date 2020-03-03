@@ -1,67 +1,6 @@
 [
     {
         "triggers": [
-            "night",
-            "good night"
-        ],
-        "replies": [
-            {
-                "reply": "To you...",
-                "type": "text"
-            },
-            {
-                "reply": "It's time",
-                "type": "text"
-            },
-            {
-                "reply": "Where are you going? The night is still young!",
-                "type": "text"
-            }
-        ]
-    },
-    {
-        "triggers": [
-            "good morning",
-            "morning"
-        ],
-        "replies": [
-            {
-                "reply": "./media/audio/sun_in_the_sky.mp3",
-                "type": "audio"
-            },
-            {
-                "reply": "./media/audio/new_dawn_new_day.mp3",
-                "type": "audio"
-            }
-        ]
-    },
-    {
-        "triggers": [
-            "haha",
-            "hahaha",
-            "ahah",
-            "ahahaha"
-        ],
-        "replies": [
-            {
-                "reply": "./media/images/kid_laughing_meme.jpg",
-                "type": "image"
-            }
-        ]
-    },
-    {
-        "triggers": [
-            "party"
-        ],
-        "replies": [
-            {
-                "reply": "./media/images/party_girl.gif",
-                "type": "image"
-            }
-        ]
-    },
-    {
-        "triggers": [
             "ditealgo"
         ],
         "replies": [
@@ -71,6 +10,82 @@
             },
             {
                 "reply": "Tu pámpara",
+                "type": "text"
+            },
+            {
+                "reply": "Entonce' tu ere un popiwa",
+                "type": "text"
+            },
+            {
+                "reply": "Dique que tu ere' popi",
+                "type": "text"
+            },
+            {
+                "reply": "Yo te doy lo que tu quiera', báilame en el tubo",
+                "type": "text"
+            },
+            {
+                "reply": "Literal vieja",
+                "type": "text"
+            },
+            {
+                "reply": "Klk con Klk",
+                "type": "text"
+            },
+            {
+                "reply": "Eso no e' na' ...",
+                "type": "text"
+            },
+            {
+                "reply": "Mueve la cadera",
+                "type": "text"
+            },
+            {
+                "reply": "Osea, like...",
+                "type": "text"
+            },
+            {
+                "reply": "Pero una cosa!",
+                "type": "text"
+            },
+            {
+                "reply": "Jala la manguera del bombero",
+                "type": "text"
+            },
+            {
+                "reply": "Cha cha cha cha",
+                "type": "text"
+            },
+            {
+                "reply": "Eso que tu tiene' me gusta",
+                "type": "text"
+            },
+            {
+                "reply": "Esta noche yo quiero una mala",
+                "type": "text"
+            },
+            {
+                "reply": "Osea, amiguis!",
+                "type": "text"
+            },
+            {
+                "reply": "Qué calor!",
+                "type": "text"
+            },
+            {
+                "reply": "Siéntate en ese deo",
+                "type": "text"
+            },
+            {
+                "reply": "Coronao coronao coronao nao nao",
+                "type": "text"
+            },
+            {
+                "reply": "BYE",
+                "type": "text"
+            },
+            {
+                "reply": "SUAAAVE!",
                 "type": "text"
             }
         ]
